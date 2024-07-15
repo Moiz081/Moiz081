@@ -10,9 +10,9 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Moiz081&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Moiz081&theme=tokyonight&hide_border=false)<br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moiz081&label=Profile%20views&color=0e75b6&style=flat" alt="moiz081" /> </p>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=moiz081&label=Profile%20views&color=0e75b6&style=flat" alt="moiz081" /> </p> <br/>
 
 ---
